@@ -610,10 +610,11 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## Output screen shots of proteus  :
- 
+ <img width="1920" height="1080" alt="Screenshot (23)" src="https://github.com/user-attachments/assets/70ec71bb-25de-4f3b-9af4-04722630279c" />
+
  
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
- ![image](https://github.com/LATHIKESHWARAN/EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD/assets/119393556/14f48ecb-11a9-4f2c-ae54-f51f9b518314)
+
 
  ![image](https://github.com/LATHIKESHWARAN/EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD/assets/119393556/61836cef-6399-476b-b043-d8639a6bb399)
 
